@@ -55,7 +55,7 @@ Pod::Spec.new do |s|
   #  profile URL.
   #
 
-  s.authors            = { 'Zhenyu Liang' => 'xwebview@sofla.re', 'Jonathan Dong' => 'dongyan09@gmail.com', 'David Kim' => 'david@xwebview.org', 'Fernando Martínez' => 'contact@fernandodev.com'}
+  s.authors            = { 'Abdul Ahad' => 'withabdulahad@gmail.com', 'Zhenyu Liang' => 'xwebview@sofla.re', 'Jonathan Dong' => 'dongyan09@gmail.com', 'David Kim' => 'david@xwebview.org', 'Fernando Martínez' => 'contact@fernandodev.com'}
   # s.social_media_url   = ""
 
   # ――― Platform Specifics ――――――――――――――――――――――――――――――――――――――――――――――――――――――― #
@@ -77,7 +77,7 @@ Pod::Spec.new do |s|
   #  Supports git, hg, bzr, svn and HTTP.
   #
 
-  s.source       = { :git => "https://github.com/XWebView/XWebView.git", :tag => s.version.to_s }
+  s.source       = { :git => "https://github.com/aahad/XWebView.git"  }
 
 
   # ――― Source Code ―――――――――――――――――――――――――――――――――――――――――――――――――――――――――――――― #
